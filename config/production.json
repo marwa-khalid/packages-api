@@ -1,0 +1,6 @@
+{
+  "db": "mongodb://localhost/Website",
+  "atlas": "mongodb+srv://ayesha29:velocity29@api-db.93wla.mongodb.net/?retryWrites=true&w=majority",
+  "jwtPrivateKey": "SomePrivatekey"
+}
+
